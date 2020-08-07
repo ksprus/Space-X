@@ -10,7 +10,7 @@ var instance = new vidbg('.video', {
   })
 
   var rellax = new Rellax('.rocket', {
-    speed: 13,
+    speed: 20,
     center: false,
     wrapper: null,
     round: true,
